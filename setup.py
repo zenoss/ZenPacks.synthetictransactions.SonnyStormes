@@ -5,7 +5,7 @@
 NAME = "ZenPacks.synthetictransactions.SonnyStormes"
 VERSION = "1.0"
 AUTHOR = "Sonny Stormes"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.synthetictransactions']
 PACKAGES = ['ZenPacks', 'ZenPacks.synthetictransactions', 'ZenPacks.synthetictransactions.SonnyStormes']
 INSTALL_REQUIRES = []
